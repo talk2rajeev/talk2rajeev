@@ -1,7 +1,7 @@
  # Who am I 
  
  👋 Hi, I’m Rajeev Sharma. 
- I am a software developer. Predominantly, I work in frontend technology. i love coding in JavaScript but
+ I am a software Engineer. I love working on frontend technologies. I can work in backend technologies too. i love coding in JavaScript but
  I am good at React and its eco system too. I write whenever I get time, Please checkout this- <a href="https://www.ui-dev.in/" target="_blank">ui-dev</a>
  
 # Things i love to do
