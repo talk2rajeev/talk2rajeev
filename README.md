@@ -11,6 +11,7 @@
 - I’m Big fan of outdoor games. Indoor games bore me. I like playing cricket 🏏 with season ball.
 - I can  cook 👨‍🍳 for myself.
 - Yoga 🧘‍♂️ keeps me fit and healty.
+- 🚵‍♂️ 🏍 Bike ride in mountains.
 
 # Find me on web
 
