@@ -16,6 +16,7 @@
 
 - Linkedin: <a href="https://www.linkedin.com/in/rajeev-sharma-0171242b/" target="_blank"> Rajeev Sharma </a>
 - Blog: <a href="https://www.ui-dev.in/" target="_blank">ui-dev</a>
+- Personal work: <a href="http://censusindia.herokuapp.com/" target="_blank">Census India Visualization Application (1951 to 2011)</a>
 
 <!---
 talk2rajeev/talk2rajeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
