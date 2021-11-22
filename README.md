@@ -8,7 +8,7 @@
 # Things i love to do
 
 - 🎶 Music is stress buster for me. I love playing guitar 🎸.
-- I’m Big fan of outdoor games. Indoor games bore me. I like playing cricket 🏏 with season ball.
+- Indoor games bore me. I like playing cricket 🏏 with season ball.
 - I can  cook 👨‍🍳 for myself.
 - Yoga 🧘‍♂️ keeps me fit and healty.
 - 🚵‍♂️ 🏍 Bike ride in mountains.
